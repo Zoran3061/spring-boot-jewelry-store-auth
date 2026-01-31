@@ -59,7 +59,7 @@ src/main/java/com/metropolitan/pz
 ## Screenshots
 
 **Login**
-<img width="898" height="715" alt="image" src="https://github.com/user-attachments/assets/5d1693f6-519b-4908-85a1-866644ff950e" />
+<img width="1493" height="763" alt="image" src="https://github.com/user-attachments/assets/08171fd4-2dfb-46d1-aa4f-403beea55217" />
 
 **Home page**
 <img width="1730" height="897" alt="image" src="https://github.com/user-attachments/assets/80060e95-6f8b-4180-bf0c-be701111ad9a" />
