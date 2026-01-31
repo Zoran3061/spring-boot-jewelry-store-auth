@@ -56,6 +56,20 @@ src/main/java/com/metropolitan/pz
 
 ---
 
+## Screenshots
+
+**Login**
+<img width="898" height="715" alt="image" src="https://github.com/user-attachments/assets/5d1693f6-519b-4908-85a1-866644ff950e" />
+
+**Home page**
+<img width="1730" height="897" alt="image" src="https://github.com/user-attachments/assets/80060e95-6f8b-4180-bf0c-be701111ad9a" />
+
+**Product-details page**
+<img width="1773" height="905" alt="image" src="https://github.com/user-attachments/assets/80c4ee14-113e-4c11-ab90-3d51184a98de" />
+
+**Cart**
+<img width="1660" height="907" alt="image" src="https://github.com/user-attachments/assets/b48e8e33-7b62-4b6c-bd0a-7635b541e6cd" />
+
 ## Notes
 This project was developed for the **IT355 course** and is part of my backend portfolio, focusing on secure API design and clean Spring Boot architecture.
 
